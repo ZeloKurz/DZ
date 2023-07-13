@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+@font-face{
+    font-family: "Mark Script";
+    src: url(fonts/marckscript-regular-webfont.woff),
+         url(fonts/marckscript-regular-webfont.woff2)
+}
+
+.one{
+    font-family: 'Kablammo', cursive;
+    font-size: 100px;
+}
+
+.two{
+    font-size: 30pt;
+    font-family: 'Mark Script';
+}
+
+.icon{
+    font-size: 100pt;
+    background-color: aquamarine;
+    padding: 50px;
+    border-radius: 50%;
+}
