@@ -1,0 +1,53 @@
+body{
+    font-family: Leelawadee UI;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    /* padding-top: 50px; */
+}
+      
+.text_img1, .text_img2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 20%;
+    background-color: aquamarine; 
+    text-align: right;
+    justify-content: right;
+}
+     
+.text_img1 img{
+    width: 100%; 
+}
+      
+.text_img2 img{
+    width: 100%;
+}
+
+.text{
+    width: 60%;
+    font-size: 20px;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.text2{
+    width: 60%;
+    font-size: 20px;
+    text-align: justify;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+h1{
+    padding-left: 20px;
+}
